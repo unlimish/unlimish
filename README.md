@@ -1,17 +1,16 @@
 ### Hi, I'm Unlimish
 
-#### 🌱 learning
-HTML/CSS/JS, Android App/ROM, Linux/Unlix
-<!--
-**unlimish/unlimish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎨CGI Creator
+- 🌏OSM contributor
 
-Here are some ideas to get you started:
+## Organization
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DroidKaigi](https://github.com/droidkaigi)
+
+## Social
+
+|      |          |                                                    |      |         |                                                              |      |            |                                                    |
+| ---- | -------- | -------------------------------------------------- | ---- | ------- | ------------------------------------------------------------ | ---- | ---------- | -------------------------------------------------- |
+| 🐤    | Twitter  | [@unlimish](https://twitter.com/minatoo86)        | 💬    | VRChat  | Unlimish                                                     | ☁    | SoundCloud | [unlimish](https://soundcloud.com/unlimish)      |
+| 🎬    | YouTube | [unlimish](https://www.youtube.com/c/unlimish)               | 📺    | NicoNico | [37660649](https://www.nicovideo.jp/user/37660649) | 🔑    | Keybase | [minato86](https://keybase.io/unlimish)                      
+| 🎮    | Steam      | [minato86](https://steamcommunity.com/id/unlimish) | 🎶   | Last fm  | [applepowerg4](https://www.last.fm/user/applepowerg4)
