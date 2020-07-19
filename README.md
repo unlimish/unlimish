@@ -17,7 +17,7 @@
 | 🐷    | Plurk | [unlimish](https://www.plurk.com/unlimish) | ⚡ | Twitch | [unlimish](https://twitch.tv/unlimish)
 
 ## Donate
-|<img src="assets/kyash.jpg" height="150px">|<img src="assets/btc.png" height="150px">|<img src="assets/eth.png" height="150px">|<img src="assets/xrp.png" height="150px">|
+|<img src="https://github.com/unlimish/unlimish/blob/master/assets/kyash.jpg" height="150px">|<img src="https://github.com/unlimish/unlimish/blob/master/assets/btc.png" height="150px">|<img src="https://github.com/unlimish/unlimish/blob/master/assets/eth.png" height="150px">|<img src="https://github.com/unlimish/unlimish/blob/master/assets/xrp.png" height="150px">|
 |:---:|:---:|:---:|:--------------------------:|
 |Kyash|BTC|ETH|XRP|
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unlimish](kyash://qr/u/2773296070208243304)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|32rW66XmjCFmKAjj2DQGMnts4oCuHKME7A|0xD4211EDB01171ca587Fc654d9D32796b8Ddf34B9|rab1R7BQ1ETRHSW6srhLMcfPvVHcJdfHR5|
