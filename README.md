@@ -1,11 +1,16 @@
 ### Hi, I'm Unlimish
 
-|     | Skills      | Tech |
-| --- | ----------- | ---- |
-| 🎨   | **[CGI Creator](https://unlimish.xyz)** |      |
-|     |Design <br> Motion graphics <br> Typography <br> Brand Experience <br> Icon <br> UI|      |
+|     | Skills                                                                                           | Tech                                                                                                                        |
+| --- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| 🎨   | **[CGI Creator](https://unlimish.xyz)**                                                          |                                                                                                                             |
+|     | Design <br> Motion graphics <br> 3D modeling <br> Typography <br> Brand Experience <br> Icon <br> UI <br> Drawing | Adobe Illustrator <br> Adobe After Effects <br> Adobe Premiere Pro <br> Blender <br> Cinema 4D <br> Adobe XD <br> Procreate |
+| 🌏   | **OSM Mapper**                                                                                   | JOSM <br> Mapillary                                                                                                         |
+| 💻   | **Coding**                                                                                       |                                                                                                                             |
+|     | Android App/ROM <br> Web Design <br> AtCoder programming contest <br> CTF                        | Kotlin <br> Java <br> HTML <br> CSS <br> JavaScript <br> C                                                                  |
+| 🎵   | **Music**                                                                                        |                                                                                                                             |
+|     |Track making <br> Guitar                                                                                                | FL Studio <br> Reaper <br> UTAU                                                                                                                         |
 
-- 🌏OSM contributor(OSM editing, Mapillary)
+
 
 
 
