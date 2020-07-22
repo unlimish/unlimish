@@ -4,13 +4,7 @@
 | --- | ----------- | ---- |
 | 🎨   | **[CGI Creator](https://unlimish.xyz)** |      |
 |     |Design <br> Motion graphics <br> Typography <br> Brand Experience <br> Icon <br> UI|      |
-- 🎨
-    - Design
-        - Motion graphics
-        - Typograpy
-        - Novelty item
-        - Icon
-        - UI
+
 - 🌏OSM contributor(OSM editing, Mapillary)
 
 
