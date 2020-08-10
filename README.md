@@ -13,7 +13,8 @@
 |     |Track making <br> Guitar                                                                                                | FL Studio <br> Reaper <br> UTAU                                                                                                                         |
 
 
-
+## Personalities
+**ENFP-T** 5w4
 
 
 ## Organization
