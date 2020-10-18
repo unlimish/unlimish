@@ -1,6 +1,6 @@
 ### Hi, I'm Unlimish
 
-[![Unlimish's github stats](https://github-readme-stats.vercel.app/api?username=unlimish&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimish&layout=compact&langs_count=10&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimish&layout=compact&langs_count=10&hide=shell)](https://github.com/anuraghazra/github-readme-stats) [![Unlimish's github stats](https://github-readme-stats.vercel.app/api?username=unlimish&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 |     | Skills                                                                                           | Tech                                                                                                                        |
 | --- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
