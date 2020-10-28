@@ -2,24 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimish&layout=compact&langs_count=10&hide=shell)](https://github.com/anuraghazra/github-readme-stats) [![Unlimish's github stats](https://github-readme-stats.vercel.app/api?username=unlimish&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-|     | Skills                                                                                           | Tech                                                                                                                        |
-| --- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| 🎨   | **[CGI Creator](https://unlimish.xyz)**                                                          |                                                                                                                             |
-|     | Design <br> Motion graphics <br> 3D modeling <br> Typography <br> Brand Experience <br> Icon <br> UI <br> Drawing | Adobe Illustrator <br> Adobe After Effects <br> Adobe Premiere Pro <br> Blender <br> Cinema 4D <br> Adobe XD <br> Procreate |
-| 🌏   | **OSM Mapper**                                                                                   | JOSM <br> Mapillary                                                                                                         |
-| 💻   | **Coding**                                                                                       |                                                                                                                             |
-|     | Android App/ROM <br> Web Design <br> AtCoder programming contest <br> CTF                        | Kotlin <br> Java <br> HTML <br> CSS <br> JavaScript <br> C                                                                  |
-| 🎵   | **Music**                                                                                        |                                                                                                                             |
-|     |Track making <br> Guitar                                                                                                | FL Studio <br> Reaper <br> UTAU                                                                                                                         |
-
-
-## Personalities
-**ENFP-T** 5w4
-
-
 ## Organization
 
 - [DroidKaigi](https://github.com/droidkaigi)
+- [42 Tokyo](https://github.com/42Paris)
 
 ## Social
 
