@@ -4,8 +4,7 @@
 
 ## Organization
 
-- [DroidKaigi](https://github.com/droidkaigi)
-- [42 Tokyo](https://github.com/42Paris)
+[![DroidKaigi](https://avatars.githubusercontent.com/u/10727543?s=50)](https://github.com/droidkaigi)  [![42 Tokyo](https://avatars.githubusercontent.com/u/63114141?s=50)](https://42tokyo.jp)
 
 ## Social
 
