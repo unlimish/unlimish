@@ -1,4 +1,6 @@
-[![gh_bunner](https://user-images.githubusercontent.com/14168376/110950719-8596ac80-8387-11eb-9143-a4a53248a1a4.png)](https://github.com/unlimish)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/14168376/110950719-8596ac80-8387-11eb-9143-a4a53248a1a4.png">
+</p>
 
 ```css
 --telemagenta: #cf3177ff;
