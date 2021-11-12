@@ -3,11 +3,11 @@
 </p>
 
 ```css
---telemagenta: #cf3177ff;
---light-coral: #ef767aff;
---dark-turquoise: #25ced1ff;
---green-sheen: #6fbaa2ff;
---alabaster: #e8ebe4ff;
+--telemagenta: #cf3177;
+--light-coral: #ef767a;
+--dark-turquoise: #25ced1;
+--green-sheen: #6fbaa2;
+--alabaster: #e8ebe4;
 ```
 
 
