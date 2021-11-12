@@ -2,12 +2,12 @@
   <a href="https://unlimish.xyz"><img src="https://user-images.githubusercontent.com/14168376/141506358-789c31fa-aafe-4628-a617-4e64f9020709.png"></a>
 </p>
 
-```css
---telemagenta: #cf3177;
---light-coral: #ef767a;
---dark-turquoise: #25ced1;
---green-sheen: #6fbaa2;
---alabaster: #e8ebe4;
+```md
+- telemagenta: #cf3177
+- light-coral: #ef767a
+- dark-turquoise: #25ced1
+- green-sheen: #6fbaa2
+- alabaster: #e8ebe4
 ```
 
 
