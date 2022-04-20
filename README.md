@@ -3,9 +3,9 @@
 
 </p>
 
-[![Design](https://skillicons.dev/icons?i=ae,ai,pr,ps,blender,figma,unity)]()
+[![Design](https://skillicons.dev/icons?i=ae,ai,pr,ps,blender,figma,unity,unreal)]()
 
-[![Dev](https://skillicons.dev/icons?i=c,cs,docker,js,ts,html,css,md,vue,react,next,gatsby,vim,vscode,netlify)]()
+[![Dev](https://skillicons.dev/icons?i=c,cs,docker,js,ts,html,css,tailwind,md,vue,react,next,gatsby,vim,vscode,netlify,tensorflow,wasm,rust)]()
 
 
 ```md
