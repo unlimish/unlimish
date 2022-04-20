@@ -3,6 +3,11 @@
 
 </p>
 
+[![Design](https://skillicons.dev/icons?i=ae,ai,pr,ps,blender,figma,unity)]()
+
+[![Dev](https://skillicons.dev/icons?i=c,cs,docker,js,ts,html,css,md,vue,react,next,gatsby,vim,vscode,netlify)]()
+
+
 ```md
 - telemagenta: #cf3177
 - light-coral: #ef767a
