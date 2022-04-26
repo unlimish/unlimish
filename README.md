@@ -3,9 +3,9 @@
 
 </p>
 
-[![Dev](https://skillicons.dev/icons?i=c,cs,docker,nodejs,ts,tailwind,vue,react,next,gatsby,wasm,rust)]()
+<!-- [![Dev](https://skillicons.dev/icons?i=c,cs,docker,nodejs,ts,tailwind,vue,react,next,gatsby,wasm,rust)]()
 
-[![Design](https://skillicons.dev/icons?i=ae,ai,pr,ps,blender,figma,unity,unreal)]()
+[![Design](https://skillicons.dev/icons?i=ae,ai,pr,ps,blender,figma,unity,unreal)]() -->
 
 [![Editor](https://skillicons.dev/icons?i=vim,vscode,md)]()
 
