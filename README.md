@@ -20,3 +20,11 @@
 
 
 [<img src="https://media.giphy.com/media/Qs21U3AFIOParcUMpV/giphy.gif" width="117"> <img src="https://media.giphy.com/media/f6ymri3hBxtbhvcGeH/giphy.gif" width="117"> <img src="https://media.giphy.com/media/Qs21U3AFIOParcUMpV/giphy.gif" width="117"> <img src="https://media.giphy.com/media/PnPZXWDxm613w8COU3/giphy.gif" width="117"> <img src="https://media.giphy.com/media/Qs21U3AFIOParcUMpV/giphy.gif" width="117"> <img src="https://media.giphy.com/media/d7f5nrrGrNW5mNIA2c/giphy.gif" width="117"> <img src="https://media.giphy.com/media/Qs21U3AFIOParcUMpV/giphy.gif" width="117">](https://giphy.com/unlimish)
+
+<details>
+<summary>Stats</summary>
+
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimish&layout=compact&hide=ren%27py&theme=radical) 
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=unlimish&theme=radical&layout=compact)
+
+</details>
