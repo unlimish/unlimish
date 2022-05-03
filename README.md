@@ -7,7 +7,7 @@
 
 [![Design](https://skillicons.dev/icons?i=ae,ai,pr,ps,blender,figma,unity,unreal)]() -->
 
-[![Editor](https://skillicons.dev/icons?i=vim,vscode,md)]()
+[![Editor](https://skillicons.dev/icons?i=vim,vscode,md)](#)
 
 
 ```md
