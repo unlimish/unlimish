@@ -24,7 +24,7 @@
 <details>
 <summary>Stats</summary>
 
-![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimish&layout=compact&hide=ren%27py&theme=radical) 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=unlimish&theme=radical&layout=compact)
+[![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimish&layout=compact&hide=ren%27py&theme=radical)](#)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=unlimish&theme=radical&layout=compact)](#)
 
 </details>
