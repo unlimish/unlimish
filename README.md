@@ -28,4 +28,3 @@
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=unlimish&theme=radical&layout=compact)](#)
 
 </details>
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=gacha&query=generated&url=https%3A%2F%2Fapi.thinaticsystem.com%2Fv1%2Fdebobigego?style=flat-square">
