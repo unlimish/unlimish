@@ -24,5 +24,7 @@
 <details>
 <summary>Stats</summary>
 
-[![unlimish's GitHub Stats](https://www.githubstats.tech/api/card?username=unlimish&theme=monokai&size=default&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=1&show_top_repo=1&show_profile=1&show_top_percent=1&contrib_stars=1)](https://www.githubstats.tech)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 </details>
